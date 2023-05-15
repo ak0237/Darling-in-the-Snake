@@ -12,6 +12,8 @@ Para dar um diferencial do jogo padrão, resolvi colocar a temática do anime Da
 <li>Baixe os arquivos do repositório</li>
 
 <li>Abra o terminal na pasta onde estão os arquivos baixados</li>
+  
+  <li>Baixe a biblioteca pygame (pip install pygame)</li> 
 
-<li>Execute o index.py pelo terminal</li>
+<li>Execute o index.py pelo terminal (python index.py)</li>
 </ul>
